@@ -1,0 +1,26 @@
+{
+    "Calculus": {
+        "total": 25,
+        "attended": 22
+    },
+    "EVS": {
+        "total": 10,
+        "attended": 10
+    },
+    "EFFECTIVE COMMUNICATION": {
+        "total": 10,
+        "attended": 7
+    },
+    "CSE": {
+        "total": 25,
+        "attended": 22
+    },
+    "CALCULUS": {
+        "total": 25,
+        "attended": 25
+    },
+    "ENGLISH": {
+        "total": 10,
+        "attended": 9
+    }
+}
